@@ -1,0 +1,24 @@
+table {
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    width: 100%;
+}
+
+input[type="text"] {
+    width: -moz-available;
+    padding: 20px 30px;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+table {
+    height: 50vh;
+    width: 50vw;
+}
